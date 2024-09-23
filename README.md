@@ -1,4 +1,6 @@
-Hi there! I'm Elowyn (Ellie for short), and I work on various (mostly audio related) coding projects 🙂
+Hi there! I'm Elowyn (Ellie for short), and alongside making music, I work on various coding projects 🙂
+
+Currently finishing up my research with the ACorEx project, and will be looking to enter the industry.
 
 ## Projects
 [ACorEx](https://github.com/fearn-e/acorex) - audio corpus explorer built with the intention to investigate a 3D UI and time series analysis (2023-present)
