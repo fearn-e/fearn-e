@@ -9,4 +9,4 @@ Syllabeat - whole keyboard based rhythm game prototype utilising OpenGL built en
 
 FearneSynth - polyphonic additive synthesizer with built-in delay (2022-2023)
 
-Microtonal Mono Synth - monophonic synthesizer with support for microtonal tuning systems (2021-2022)
+MicroMono - monophonic synthesizer with support for microtonal tuning systems (2021-2022)
