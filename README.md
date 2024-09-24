@@ -8,7 +8,7 @@ Currently finishing up my research with the ACorEx project, and will be looking 
 - FearneSynth - polyphonic additive synthesizer with built-in delay (2023) [C++]
 - BinByBin FFT - audio processor with individual FFT bin amplitude and phase controls (2023) [Max]
 - FMMultiMatrix - frequency modulation synthesizer with 8 oscillators which can be routed into each other (2022) [Max]
-- MicroMono - monophonic synthesizer with support for microtonal tuning systems (2020-2021) [Max]
+- MicroMono - monophonic synthesizer with support for microtonal tuning systems (2021) [Max]
 
 ## Contributions
 - [FluCoMa](https://github.com/flucoma) fluid.voiceallocator object - 
