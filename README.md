@@ -10,9 +10,8 @@ Currently finishing up my research with the ACorEx project, and will be looking 
 - [FM-MultiMatrix](https://github.com/fearn-e/fm-multimatrix) - frequency modulation synthesizer with 8 oscillators which can be routed into each other (2022) [Max]
 - [MicroMono](https://github.com/fearn-e/micromono) - monophonic synthesizer with support for microtonal tuning systems (2021) [Max]
 
-<!--- 
+
 ## Contributions
-- [FluCoMa](https://github.com/flucoma) fluid.voiceallocator object - 
-- [FluCoMa](https://github.com/flucoma)/[HissTools](https://github.com/alexharker) various -
-- [
---->
+- [FluCoMa](https://github.com/flucoma) fluid.voiceallocator object
+- Various [FluCoMa](https://github.com/flucoma)/[HissTools](https://github.com/alexharker) code maintenance bits & some video tutorials
+- [FrameLib](https://github.com/alexharker/framelib) objects
