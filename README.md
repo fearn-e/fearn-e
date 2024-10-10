@@ -1,4 +1,4 @@
-Hi there! I'm Elowyn (Ellie for short), and alongside making music, I work on various coding projects 🙂
+Hi there! I'm Ellie, and alongside making music, I work on various coding projects 🙂
 
 Currently finishing up my research with the ACorEx project, and will be looking to enter the industry.
 
