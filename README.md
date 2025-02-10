@@ -4,7 +4,7 @@ Currently finishing up my research with the ACorEx project, and will be looking 
 
 ## Projects
 - [ACorEx](https://github.com/fearn-e/acorex) - corpus-based concatenative synthesis engine and visualised corpus browser built with the intention to investigate 3D visualisation and novel synthesis approaches (2024) [C++]
-- [Syllabeat](https://github.com/fearn-e/syllabeat) - whole keyboard based rhythm game prototype utilising OpenGL built entirely in Max (i.e. a terrible idea) (2023) [Max]
+- [Syllabeat](https://github.com/fearn-e/syllabeat) - whole keyboard based rhythm game prototype utilising OpenGL built entirely in Max (2023) [Max]
 - [FearneSynth](https://github.com/fearn-e/fearnesynth) - polyphonic additive synthesizer with built-in delay (2023) [C++]
 - [BinByBin-FFT](https://github.com/fearn-e/binbybin-fft) - audio processor with individual FFT bin amplitude and phase controls (2023) [Max]
 - [FM-MultiMatrix](https://github.com/fearn-e/fm-multimatrix) - frequency modulation synthesizer with 8 oscillators which can be routed into each other (2022) [Max]
