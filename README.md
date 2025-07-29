@@ -1,6 +1,4 @@
-Hi there! I'm Ellie, and alongside making music, I work on various coding projects 🙂
-
-Currently finishing up my research with the ACorEx project, and will be looking for further research or industry work to take on.
+Hi there! I'm Ellie, and alongside making music, I work on various coding projects, most notably [ACorEx](https://github.com/fearn-e/acorex) 🙂
 
 ## Projects
 - [ACorEx](https://github.com/fearn-e/acorex) - corpus-based concatenative synthesis engine and visualised corpus browser built with the intention to investigate 3D visualisation and novel synthesis approaches (2024) [C++]
