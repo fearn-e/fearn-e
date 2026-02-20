@@ -1,9 +1,12 @@
 Hi there! I'm Ellie, an audio programmer and musician :)
 
-If you want my most interesting project, that'd have to be [ACorEx](https://github.com/fearn-e/acorex), my '25 master's thesis.
+If you just want to see my most interesting project, that'd have to be ACorEx, my '25 master's thesis.
+<br /> **ACorEx:** [Website](https://acorex.org) [Repo](https://github.com/fearn-e/acorex) [Music](https://www.youtube.com/@fearn-e)
+<br />
+<br />
 
 ## Projects
-- **[ACorEx](https://github.com/fearn-e/acorex) — corpus-based concatenative synthesis engine and visualised corpus browser built with the intention to investigate 3D visualisation and novel synthesis approaches (2024-2026) [C++]**
+- [ACorEx](https://github.com/fearn-e/acorex) — corpus-based concatenative synthesis engine and visualised corpus browser built with the intention to investigate 3D visualisation and novel synthesis approaches (2024-2026) [C++]
 - [Syllabeat](https://github.com/fearn-e/syllabeat) — rhythm game prototype with the whole keyboard as an input, utilising OpenGL and built wholly in Max (2023) [Max]
 - [FearneSynth](https://github.com/fearn-e/fearnesynth) — polyphonic additive synthesizer with built-in delay (2023) [C++]
 - [BinByBin-FFT](https://github.com/fearn-e/binbybin-fft) — audio processor with individual FFT bin amplitude and phase controls (2023) [Max]
