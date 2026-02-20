@@ -1,6 +1,6 @@
 Hi there! I'm Ellie, an audio programmer and musician :)
 
-If you just want to see my most interesting project, that'd have to be ACorEx, my '25 master's thesis.
+If you just want my most interesting project, that'll be ACorEx, my '25 master's thesis.
 <br /> **ACorEx:** [Website](https://acorex.org) [Repo](https://github.com/fearn-e/acorex) [Music](https://www.youtube.com/@fearn-e)
 <br />
 <br />
