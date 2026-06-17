@@ -15,6 +15,6 @@ If you just want my most interesting project, that'll be ACorEx, my '25 master's
 
 
 ## Contributions
-- [FluCoMa](https://github.com/flucoma) fluid.voiceallocator object
-- Various [FluCoMa](https://github.com/flucoma)/[HissTools](https://github.com/alexharker) code maintenance bits & some video tutorials
-- [FrameLib](https://github.com/alexharker/framelib) objects and maintenance
+- [FluCoMa](https://github.com/flucoma) — fluid.voiceallocator object
+- [FrameLib](https://github.com/alexharker/framelib) — several new objects
+- [FluCoMa](https://github.com/flucoma)/[HissTools](https://github.com/alexharker) — code maintenance, documentation, tutorials
